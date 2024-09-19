@@ -1,0 +1,5 @@
+commit 9a3f129783bc49a50e15ff4b69f31d9003357dac
+Author: Guilherme Oliveira de Lima <guiiahoo@gmail.com>
+Date:   Thu Sep 19 12:26:03 2024 -0300
+
+    Adicionar programa de cálculo fatorial
